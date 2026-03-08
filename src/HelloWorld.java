@@ -2,7 +2,7 @@ public class HelloWorld {
 
     public static void main(String[] args) {
 
-        System.out.println("Hello Jenkins - CI Working!");
+        System.out.println("Automatic CI trigger test");
 
     }
 
