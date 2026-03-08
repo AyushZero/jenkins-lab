@@ -2,7 +2,7 @@ public class HelloWorld {
 
     public static void main(String[] args) {
 
-        System.out.println("Automatic CI trigger test");
+        System.out.println("Test for CI");
 
     }
 
